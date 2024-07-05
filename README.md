@@ -1,6 +1,6 @@
 # Consideracoes importantes
 
-Para navegar no site acesse o [link](https://catson28.github.io/candstudio.com).
+Para navegar no site acesse o [link](https://catson28.github.io/Cand-studio).
 
 ```bash
 npm i gh-pages --save-dev
@@ -18,7 +18,7 @@ package.json
 package.json
 
 ```json
-"homepage":"https://catson28.github.io/candstudio.com"
+"homepage":"https://catson28.github.io/Cand-studio"
 ```
 
 vite.config.js
